@@ -13,7 +13,6 @@ Simplifies task management using MongoDB, Express.js, React, and Node.js (MERN s
 - **Frontend:** React.js, Axios, React Icons
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
-- **Deployment:** Heroku (or your preferred hosting platform)
 
 ## 📋 Setup Instructions
 1. **Clone the repository:** `git clone https://github.com/suyashpurwar1/ToDo`
